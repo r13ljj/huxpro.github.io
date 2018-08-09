@@ -1,4 +1,3 @@
-### how to setup your github.io blog
 ---
 layout: post
 title: the first page
