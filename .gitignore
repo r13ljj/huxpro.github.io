@@ -5,3 +5,10 @@ npm-debug.log
 */.DS_Store
 */*/.DS_Store
 *.sh
+
+# intellij files
+.idea/
+*.iml
+*.ipr
+*.iws
+build-idea/
