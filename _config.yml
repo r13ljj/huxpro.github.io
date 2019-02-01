@@ -1,4 +1,5 @@
 # Site settings
+name:  Jonex Blog
 title: Jonex Blog
 SEOTitle: 虚白的博客 | Jonex Blog
 header-img: img/home-bg.jpg
@@ -8,11 +9,13 @@ keyword: "虚白, Jonex虚白, Jonex, r13ljj, @jonex, 虚白的博客, Jonex Blo
 url: "https://r13ljj.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
+
+
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     r13ljj
 zhihu_username:     r13ljj
 github_username:    r13ljj
